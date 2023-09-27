@@ -9,6 +9,6 @@
 
 - Wechat: prxd_1225
 
-- Github: [https://github.com/onlyguo](https://github.com/zpng)
+- Github: https://github.com/zpng
 
 - Address: 中国·北京
